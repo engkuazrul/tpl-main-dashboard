@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Main Dashboard Template (Admin Dashboard)
 
-## Getting Started
+Technologies Used
 
-First, run the development server:
+    Next.js: React framework for SSR, SSG, and routing.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+    NextAuth.js: Authentication library for Next.js.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    Redux Toolkit: State management with async logic support.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    Axios: HTTP client for API requests.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+    Axios Mock Adapter: Mock API responses for development.
 
-## Learn More
+    Material-UI (MUI): UI component library.
 
-To learn more about Next.js, take a look at the following resources:
+    Emotion: CSS-in-JS for dynamic styling.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    i18next: Internationalization for multi-language support.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Features
 
-## Deploy on Vercel
+    Secure authentication with NextAuth.js.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    Centralized state management with Redux Toolkit.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    Mock API support with Axios Mock Adapter.
+
+    Responsive UI with Material-UI and Emotion.
+
+    Multi-language support with i18next.
+    
+Picture
+
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/47aa2e6e-ced1-432d-a1e1-0f17a5a56f6b" />
+
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/b61c15bf-c3b4-4cc8-9f6e-59883ce1f06e" />
+
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/5cc453f4-f7b1-487f-a349-cc74152c4045" />
+
